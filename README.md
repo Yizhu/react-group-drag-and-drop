@@ -1,5 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) sample.
+I use this sample to make a form editor like Google Form. 
 
+## Demo
+![demo](./dnd.gif)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
